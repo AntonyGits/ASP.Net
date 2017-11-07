@@ -1,0 +1,15 @@
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Navigation\Navigation\bin\Navigation.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Navigation\Navigation\bin\Navigation.pdb
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Navigation\Navigation\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Navigation\Navigation\obj\Debug\Navigation.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Navigation\Navigation\obj\Debug\Navigation.pdb
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\06_Navigation\Navigation\bin\Navigation.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\06_Navigation\Navigation\bin\Navigation.pdb
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\06_Navigation\Navigation\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\06_Navigation\Navigation\obj\Debug\Navigation.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\06_Navigation\Navigation\obj\Debug\Navigation.pdb
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\06_Navigation\Navigation\bin\Navigation.dll
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\06_Navigation\Navigation\bin\Navigation.pdb
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\06_Navigation\Navigation\obj\Debug\Navigation.dll
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\06_Navigation\Navigation\obj\Debug\Navigation.pdb
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\06_Navigation\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.pdb
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.dll
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.pdb
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.dll
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.pdb
+C:\Users\Anthony\Desktop\009_AJAX_Basics\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.dll.config
+C:\Users\Anthony\Desktop\009_AJAX_Basics\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.dll
+C:\Users\Anthony\Desktop\009_AJAX_Basics\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\bin\AJAX_Control_Toolkit_Library.pdb
+C:\Users\Anthony\Desktop\009_AJAX_Basics\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\009_AJAX_Basics\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.dll
+C:\Users\Anthony\Desktop\009_AJAX_Basics\05_AJAX_Control_Toolkit_Library\AJAX_Control_Toolkit_Library\obj\Debug\AJAX_Control_Toolkit_Library.pdb

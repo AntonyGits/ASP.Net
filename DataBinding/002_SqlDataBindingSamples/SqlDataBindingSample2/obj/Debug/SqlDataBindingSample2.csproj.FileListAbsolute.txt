@@ -1,0 +1,8 @@
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample2\bin\SqlDataBindingSample2.dll
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample2\bin\SqlDataBindingSample2.pdb
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample2\obj\Debug\SqlDataBindingSample2.dll
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample2\obj\Debug\SqlDataBindingSample2.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample2\bin\SqlDataBindingSample2.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample2\bin\SqlDataBindingSample2.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample2\obj\Debug\SqlDataBindingSample2.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample2\obj\Debug\SqlDataBindingSample2.pdb

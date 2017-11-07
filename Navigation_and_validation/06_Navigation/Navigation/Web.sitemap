@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  
+    <siteMapNode url="/Default.aspx" title="Домашняя"  description="Главная странциа сайта">
+  
+      <siteMapNode url="/Customers/CustomersList.aspx" title="Клиенты"  description="Список всех клиентов">
+          <siteMapNode url="/Customers/AddCustomer.aspx" title="Добавить клиента"  description="Страница для добавления нового клиента" />
+          <siteMapNode url="/Customers/EditCustomer.aspx" title="Редактировать клиента"  description="Страница для редактирования данных клиента" />
+      </siteMapNode>
+      
+      <siteMapNode url="/Products/ProductsList.aspx" title="Продуты"  description="Список всех продуктов">
+        <siteMapNode url="/Products/AddProduct.aspx" title="Добавить продукт"  description="Страница для добавления нового продукта" />
+        <siteMapNode url="/Products/EditProduct.aspx" title="Редактировать продукт"  description="Страница для редактирования данных продукта" />
+      </siteMapNode>
+      
+    </siteMapNode>
+</siteMap>

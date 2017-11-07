@@ -1,0 +1,5 @@
+D:\Work\Lessons\ASP.NET Base v2\007_Repeater_and_GridView\RepeaterSamples\RepeaterSamples\bin\RepeaterSamples.dll
+D:\Work\Lessons\ASP.NET Base v2\007_Repeater_and_GridView\RepeaterSamples\RepeaterSamples\bin\RepeaterSamples.pdb
+D:\Work\Lessons\ASP.NET Base v2\007_Repeater_and_GridView\RepeaterSamples\RepeaterSamples\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\007_Repeater_and_GridView\RepeaterSamples\RepeaterSamples\obj\Debug\RepeaterSamples.dll
+D:\Work\Lessons\ASP.NET Base v2\007_Repeater_and_GridView\RepeaterSamples\RepeaterSamples\obj\Debug\RepeaterSamples.pdb

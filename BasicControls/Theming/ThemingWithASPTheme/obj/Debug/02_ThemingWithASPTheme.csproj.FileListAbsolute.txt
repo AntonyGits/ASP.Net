@@ -1,0 +1,15 @@
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\ThemingWithASPTheme\bin\ThemingWithASPTheme.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\ThemingWithASPTheme\bin\ThemingWithASPTheme.pdb
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\ThemingWithASPTheme.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\ThemingWithASPTheme.pdb
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\Theming\ThemingWithASPTheme\bin\ThemingWithASPTheme.dll
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\Theming\ThemingWithASPTheme\bin\ThemingWithASPTheme.pdb
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\ThemingWithASPTheme.dll
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\ThemingWithASPTheme.pdb
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\02_ThemingWithASPTheme.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\ThemingWithASPTheme\bin\ThemingWithASPTheme.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\ThemingWithASPTheme\bin\ThemingWithASPTheme.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\02_ThemingWithASPTheme.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\ThemingWithASPTheme.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\ThemingWithASPTheme\obj\Debug\ThemingWithASPTheme.pdb

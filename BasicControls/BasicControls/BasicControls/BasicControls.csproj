@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8BDF8CE1-DBE6-42A0-9087-89CC0F78787C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BasicControls</RootNamespace>
+    <AssemblyName>BasicControls</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="01_Button\Button1.aspx" />
+    <Content Include="01_Button\Button2.aspx" />
+    <Content Include="01_Button\Button3.aspx" />
+    <Content Include="01_Button\Button4.aspx" />
+    <Content Include="02_TextBox\TextBox1.aspx" />
+    <Content Include="02_TextBox\TextBox2.aspx" />
+    <Content Include="02_TextBox\TextBox3.aspx" />
+    <Content Include="03_Label\Label1.aspx" />
+    <Content Include="03_Label\Label2.aspx" />
+    <Content Include="03_Label\LiteralControlSample.aspx" />
+    <Content Include="04_CheckBox\CheckBox1.aspx" />
+    <Content Include="04_CheckBox\CheckBox2.aspx" />
+    <Content Include="05_RadioButton\RadioButton1.aspx" />
+    <Content Include="06_Image\Image1.aspx" />
+    <Content Include="06_Image\ImageButton1.aspx" />
+    <Content Include="06_Image\ImageMap1.aspx" />
+    <Content Include="07_Links\HyperLink.aspx" />
+    <Content Include="07_Links\LinkButton.aspx" />
+    <Content Include="08_Panel\PanelSample1.aspx" />
+    <Content Include="08_Panel\PanelSample2.aspx" />
+    <Content Include="08_Panel\PanelSample3.aspx" />
+    <Content Include="09_Table\TableSample1.aspx" />
+    <Content Include="Images\button.jpg" />
+    <Content Include="Images\button_pressed.jpg" />
+    <Content Include="Images\logo.jpg" />
+    <Content Include="Images\map.jpg" />
+    <Content Include="TraceTesting.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="01_Button\Button1.aspx.cs">
+      <DependentUpon>Button1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="01_Button\Button1.aspx.designer.cs">
+      <DependentUpon>Button1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="01_Button\Button2.aspx.cs">
+      <DependentUpon>Button2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="01_Button\Button2.aspx.designer.cs">
+      <DependentUpon>Button2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="01_Button\Button3.aspx.cs">
+      <DependentUpon>Button3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="01_Button\Button3.aspx.designer.cs">
+      <DependentUpon>Button3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="01_Button\Button4.aspx.cs">
+      <DependentUpon>Button4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="01_Button\Button4.aspx.designer.cs">
+      <DependentUpon>Button4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="03_Label\Label1.aspx.cs">
+      <DependentUpon>Label1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="03_Label\Label1.aspx.designer.cs">
+      <DependentUpon>Label1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="03_Label\Label2.aspx.cs">
+      <DependentUpon>Label2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="03_Label\Label2.aspx.designer.cs">
+      <DependentUpon>Label2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="03_Label\LiteralControlSample.aspx.cs">
+      <DependentUpon>LiteralControlSample.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="03_Label\LiteralControlSample.aspx.designer.cs">
+      <DependentUpon>LiteralControlSample.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="04_CheckBox\CheckBox1.aspx.cs">
+      <DependentUpon>CheckBox1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="04_CheckBox\CheckBox1.aspx.designer.cs">
+      <DependentUpon>CheckBox1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="04_CheckBox\CheckBox2.aspx.cs">
+      <DependentUpon>CheckBox2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="04_CheckBox\CheckBox2.aspx.designer.cs">
+      <DependentUpon>CheckBox2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="05_RadioButton\RadioButton1.aspx.cs">
+      <DependentUpon>RadioButton1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="05_RadioButton\RadioButton1.aspx.designer.cs">
+      <DependentUpon>RadioButton1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="06_Image\Image1.aspx.cs">
+      <DependentUpon>Image1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="06_Image\Image1.aspx.designer.cs">
+      <DependentUpon>Image1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="06_Image\ImageButton1.aspx.cs">
+      <DependentUpon>ImageButton1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="06_Image\ImageButton1.aspx.designer.cs">
+      <DependentUpon>ImageButton1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="06_Image\ImageMap1.aspx.cs">
+      <DependentUpon>ImageMap1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="06_Image\ImageMap1.aspx.designer.cs">
+      <DependentUpon>ImageMap1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="07_Links\HyperLink.aspx.cs">
+      <DependentUpon>HyperLink.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="07_Links\HyperLink.aspx.designer.cs">
+      <DependentUpon>HyperLink.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="07_Links\LinkButton.aspx.cs">
+      <DependentUpon>LinkButton.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="07_Links\LinkButton.aspx.designer.cs">
+      <DependentUpon>LinkButton.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="08_Panel\PanelSample1.aspx.cs">
+      <DependentUpon>PanelSample1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="08_Panel\PanelSample1.aspx.designer.cs">
+      <DependentUpon>PanelSample1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="08_Panel\PanelSample2.aspx.cs">
+      <DependentUpon>PanelSample2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="08_Panel\PanelSample2.aspx.designer.cs">
+      <DependentUpon>PanelSample2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="08_Panel\PanelSample3.aspx.cs">
+      <DependentUpon>PanelSample3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="08_Panel\PanelSample3.aspx.designer.cs">
+      <DependentUpon>PanelSample3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="09_Table\TableSample1.aspx.cs">
+      <DependentUpon>TableSample1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="09_Table\TableSample1.aspx.designer.cs">
+      <DependentUpon>TableSample1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="02_TextBox\TextBox1.aspx.cs">
+      <DependentUpon>TextBox1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="02_TextBox\TextBox1.aspx.designer.cs">
+      <DependentUpon>TextBox1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="02_TextBox\TextBox2.aspx.cs">
+      <DependentUpon>TextBox2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="02_TextBox\TextBox2.aspx.designer.cs">
+      <DependentUpon>TextBox2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="02_TextBox\TextBox3.aspx.cs">
+      <DependentUpon>TextBox3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="02_TextBox\TextBox3.aspx.designer.cs">
+      <DependentUpon>TextBox3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TraceTesting.aspx.cs">
+      <DependentUpon>TraceTesting.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TraceTesting.aspx.designer.cs">
+      <DependentUpon>TraceTesting.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>6301</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

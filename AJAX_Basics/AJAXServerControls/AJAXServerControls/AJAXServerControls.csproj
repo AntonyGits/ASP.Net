@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{051DE541-05CD-49B0-AE93-52C3AD2C6C5C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AJAXServerControls</RootNamespace>
+    <AssemblyName>AJAXServerControls</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="01_UpdatePanel.aspx" />
+    <Content Include="02_UpdatePanelErrors.aspx" />
+    <Content Include="03_UpdatePanelsError.aspx" />
+    <Content Include="04_ConditionalUpdate.aspx" />
+    <Content Include="05_UpdatePanelTrigger.aspx" />
+    <Content Include="06_TimerSample.aspx" />
+    <Content Include="07_TimerSample.aspx" />
+    <Content Include="08_UpdateProgressSample.aspx" />
+    <Content Include="09_UpdateProgressCancel.aspx" />
+    <Content Include="ajax-loader.gif" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="01_UpdatePanel.aspx.cs">
+      <DependentUpon>01_UpdatePanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="01_UpdatePanel.aspx.designer.cs">
+      <DependentUpon>01_UpdatePanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="02_UpdatePanelErrors.aspx.cs">
+      <DependentUpon>02_UpdatePanelErrors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="02_UpdatePanelErrors.aspx.designer.cs">
+      <DependentUpon>02_UpdatePanelErrors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="03_UpdatePanelsError.aspx.cs">
+      <DependentUpon>03_UpdatePanelsError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="03_UpdatePanelsError.aspx.designer.cs">
+      <DependentUpon>03_UpdatePanelsError.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="04_ConditionalUpdate.aspx.cs">
+      <DependentUpon>04_ConditionalUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="04_ConditionalUpdate.aspx.designer.cs">
+      <DependentUpon>04_ConditionalUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="05_UpdatePanelTrigger.aspx.cs">
+      <DependentUpon>05_UpdatePanelTrigger.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="05_UpdatePanelTrigger.aspx.designer.cs">
+      <DependentUpon>05_UpdatePanelTrigger.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="06_TimerSample.aspx.cs">
+      <DependentUpon>06_TimerSample.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="06_TimerSample.aspx.designer.cs">
+      <DependentUpon>06_TimerSample.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="07_TimerSample.aspx.cs">
+      <DependentUpon>07_TimerSample.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="07_TimerSample.aspx.designer.cs">
+      <DependentUpon>07_TimerSample.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="08_UpdateProgressSample.aspx.cs">
+      <DependentUpon>08_UpdateProgressSample.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="08_UpdateProgressSample.aspx.designer.cs">
+      <DependentUpon>08_UpdateProgressSample.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="09_UpdateProgressCancel.aspx.cs">
+      <DependentUpon>09_UpdateProgressCancel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="09_UpdateProgressCancel.aspx.designer.cs">
+      <DependentUpon>09_UpdateProgressCancel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>5602</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

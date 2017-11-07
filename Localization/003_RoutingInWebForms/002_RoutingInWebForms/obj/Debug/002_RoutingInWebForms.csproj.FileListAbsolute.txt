@@ -1,0 +1,8 @@
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\002_RoutingInWebForms\bin\002_RoutingInWebForms.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\002_RoutingInWebForms\bin\002_RoutingInWebForms.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\002_RoutingInWebForms\obj\Debug\002_RoutingInWebForms.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\002_RoutingInWebForms\obj\Debug\002_RoutingInWebForms.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\002_RoutingInWebForms\bin\002_RoutingInWebForms.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\002_RoutingInWebForms\bin\002_RoutingInWebForms.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\002_RoutingInWebForms\obj\Debug\002_RoutingInWebForms.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\002_RoutingInWebForms\obj\Debug\002_RoutingInWebForms.pdb

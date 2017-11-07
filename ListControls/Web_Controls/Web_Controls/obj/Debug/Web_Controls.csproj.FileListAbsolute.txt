@@ -1,0 +1,21 @@
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.dll
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.pdb
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\Web_Controls\Web_Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.dll
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.pdb
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.dll
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.pdb
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.dll
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.pdb
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.pdb
+C:\Users\Anthony\Desktop\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.dll.config
+C:\Users\Anthony\Desktop\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.dll
+C:\Users\Anthony\Desktop\005_ListControls\Web_Controls\Web_Controls\bin\Web_Controls.pdb
+C:\Users\Anthony\Desktop\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.dll
+C:\Users\Anthony\Desktop\005_ListControls\Web_Controls\Web_Controls\obj\Debug\Web_Controls.pdb

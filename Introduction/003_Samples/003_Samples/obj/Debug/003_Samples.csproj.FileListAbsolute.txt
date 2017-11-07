@@ -1,0 +1,12 @@
+c:\users\dmitriy\documents\visual studio 2013\Projects\003_Samples\003_Samples\bin\003_Samples.dll.config
+c:\users\dmitriy\documents\visual studio 2013\Projects\003_Samples\003_Samples\bin\003_Samples.dll
+c:\users\dmitriy\documents\visual studio 2013\Projects\003_Samples\003_Samples\bin\003_Samples.pdb
+c:\users\dmitriy\documents\visual studio 2013\Projects\003_Samples\003_Samples\obj\Debug\003_Samples.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\003_Samples\003_Samples\obj\Debug\003_Samples.dll
+c:\users\dmitriy\documents\visual studio 2013\Projects\003_Samples\003_Samples\obj\Debug\003_Samples.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\003_Samples\003_Samples\bin\003_Samples.dll.config
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\003_Samples\003_Samples\bin\003_Samples.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\003_Samples\003_Samples\bin\003_Samples.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\003_Samples\003_Samples\obj\Debug\003_Samples.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\003_Samples\003_Samples\obj\Debug\003_Samples.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\003_Samples\003_Samples\obj\Debug\003_Samples.pdb

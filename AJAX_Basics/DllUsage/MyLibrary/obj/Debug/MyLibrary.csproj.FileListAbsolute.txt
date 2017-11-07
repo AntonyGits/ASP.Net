@@ -1,0 +1,15 @@
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\DllUsage\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\DllUsage\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\DllUsage\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\DllUsage\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\DllUsage\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\04_DllUsage\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\04_DllUsage\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\04_DllUsage\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\04_DllUsage\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\04_DllUsage\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\009_AJAX_Basics\04_DllUsage\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\009_AJAX_Basics\04_DllUsage\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\009_AJAX_Basics\04_DllUsage\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\009_AJAX_Basics\04_DllUsage\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\009_AJAX_Basics\04_DllUsage\MyLibrary\obj\Debug\MyLibrary.pdb

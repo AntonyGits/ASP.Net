@@ -1,0 +1,26 @@
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Captcha\Captcha\bin\Captcha.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Captcha\Captcha\bin\Captcha.pdb
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Captcha\Captcha\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Captcha\Captcha\obj\Debug\Captcha.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\Captcha\Captcha\obj\Debug\Captcha.pdb
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.pdb
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.pdb
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.dll
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.pdb
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.dll
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.pdb
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.pdb
+C:\Users\Anthony\Desktop\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.dll.config
+C:\Users\Anthony\Desktop\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.dll
+C:\Users\Anthony\Desktop\008_Navigation_and_validation\02_Captcha\Captcha\bin\Captcha.pdb
+C:\Users\Anthony\Desktop\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.dll
+C:\Users\Anthony\Desktop\008_Navigation_and_validation\02_Captcha\Captcha\obj\Debug\Captcha.pdb

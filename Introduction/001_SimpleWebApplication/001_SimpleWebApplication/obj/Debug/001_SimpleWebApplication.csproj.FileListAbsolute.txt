@@ -1,0 +1,6 @@
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\001_SimpleWebApplication\001_SimpleWebApplication\bin\001_SimpleWebApplication.dll.config
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\001_SimpleWebApplication\001_SimpleWebApplication\bin\001_SimpleWebApplication.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\001_SimpleWebApplication\001_SimpleWebApplication\bin\001_SimpleWebApplication.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\001_SimpleWebApplication\001_SimpleWebApplication\obj\Debug\001_SimpleWebApplication.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\001_SimpleWebApplication\001_SimpleWebApplication\obj\Debug\001_SimpleWebApplication.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\001_SimpleWebApplication\001_SimpleWebApplication\obj\Debug\001_SimpleWebApplication.pdb

@@ -1,0 +1,5 @@
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\Sample\bin\Sample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\Sample\bin\Sample.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\Sample\obj\Debug\Sample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\Theming\Sample\obj\Debug\Sample.pdb

@@ -1,0 +1,4 @@
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\004_LocalizationSample\bin\004_LocalizationSample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\004_LocalizationSample\bin\004_LocalizationSample.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\004_LocalizationSample\obj\Debug\004_LocalizationSample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\003_RoutingInWebForms\004_LocalizationSample\obj\Debug\004_LocalizationSample.pdb

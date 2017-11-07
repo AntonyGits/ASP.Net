@@ -1,0 +1,15 @@
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\ListControls\ListControls\bin\ListControls.dll
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\ListControls\ListControls\bin\ListControls.pdb
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\ListControls\ListControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.dll
+D:\Work\Lessons\ASP.NET Base v2\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\ListControls\ListControls\bin\ListControls.dll
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\ListControls\ListControls\bin\ListControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.dll
+D:\Lessons\ASP.NET Base (2.0)\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\ListControls\ListControls\bin\ListControls.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\ListControls\ListControls\bin\ListControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\005_ListControls\ListControls\ListControls\obj\Debug\ListControls.pdb

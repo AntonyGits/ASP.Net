@@ -1,0 +1,6 @@
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\005_AppDataFolder\005_AppDataFolder\bin\005_AppDataFolder.dll.config
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\005_AppDataFolder\005_AppDataFolder\bin\005_AppDataFolder.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\005_AppDataFolder\005_AppDataFolder\bin\005_AppDataFolder.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\005_AppDataFolder\005_AppDataFolder\obj\Debug\005_AppDataFolder.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\005_AppDataFolder\005_AppDataFolder\obj\Debug\005_AppDataFolder.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\005_AppDataFolder\005_AppDataFolder\obj\Debug\005_AppDataFolder.csprojResolveAssemblyReference.cache

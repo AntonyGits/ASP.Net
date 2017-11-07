@@ -1,0 +1,5 @@
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\WebApplication1\bin\WebApplication1.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\WebApplication1\bin\WebApplication1.pdb
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\WebApplication1\obj\Debug\WebApplication1.pdb

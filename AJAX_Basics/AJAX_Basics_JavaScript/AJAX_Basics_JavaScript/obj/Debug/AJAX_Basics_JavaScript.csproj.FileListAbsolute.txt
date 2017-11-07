@@ -1,0 +1,15 @@
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\bin\AJAX_Basics_JavaScript.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\bin\AJAX_Basics_JavaScript.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\AJAX_Basics_JavaScript.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\AJAX_Basics_JavaScript.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\bin\AJAX_Basics_JavaScript.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\bin\AJAX_Basics_JavaScript.pdb
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\AJAX_Basics_JavaScript.dll
+D:\Work\Lessons\ASP.NET Base v2\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\AJAX_Basics_JavaScript.pdb
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\bin\AJAX_Basics_JavaScript.dll
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\bin\AJAX_Basics_JavaScript.pdb
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\AJAX_Basics_JavaScript.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\AJAX_Basics_JavaScript.dll
+D:\Lessons\ASP.NET Base (2.0)\009_AJAX_Basis\01_AJAX_Basics_JavaScript\AJAX_Basics_JavaScript\obj\Debug\AJAX_Basics_JavaScript.pdb

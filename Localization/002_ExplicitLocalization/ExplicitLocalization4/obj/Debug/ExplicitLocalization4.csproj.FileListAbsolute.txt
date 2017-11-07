@@ -1,0 +1,19 @@
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.dll
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.pdb
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization4\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.dll
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.pdb
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.dll
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.pdb
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.dll
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.pdb
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.dll
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.pdb
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.dll
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.pdb
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.dll
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\bin\ExplicitLocalization4.pdb
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.dll
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization4\obj\Debug\ExplicitLocalization4.pdb

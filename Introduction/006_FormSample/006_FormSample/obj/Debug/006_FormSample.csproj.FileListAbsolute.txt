@@ -1,0 +1,5 @@
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\006_FormSample\006_FormSample\bin\006_FormSample.dll.config
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\006_FormSample\006_FormSample\bin\006_FormSample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\006_FormSample\006_FormSample\bin\006_FormSample.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\006_FormSample\006_FormSample\obj\Debug\006_FormSample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\001_Introduction\006_FormSample\006_FormSample\obj\Debug\006_FormSample.pdb

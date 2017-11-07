@@ -1,0 +1,15 @@
+D:\Work\Lessons\ASP.NET Base v2\003_State\StateManagment\StateManagment\bin\StateManagment.dll
+D:\Work\Lessons\ASP.NET Base v2\003_State\StateManagment\StateManagment\bin\StateManagment.pdb
+D:\Work\Lessons\ASP.NET Base v2\003_State\StateManagment\StateManagment\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.dll
+D:\Work\Lessons\ASP.NET Base v2\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.pdb
+D:\Lessons\ASP.NET Base (2.0)\003_State\StateManagment\StateManagment\bin\StateManagment.dll
+D:\Lessons\ASP.NET Base (2.0)\003_State\StateManagment\StateManagment\bin\StateManagment.pdb
+D:\Lessons\ASP.NET Base (2.0)\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.dll
+D:\Lessons\ASP.NET Base (2.0)\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\003_State\StateManagment\StateManagment\bin\StateManagment.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\003_State\StateManagment\StateManagment\bin\StateManagment.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\003_State\StateManagment\StateManagment\obj\Debug\StateManagment.pdb

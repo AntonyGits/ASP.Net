@@ -1,0 +1,5 @@
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\MailMessagesSending\MailMessagesSending\bin\MailMessagesSending.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\MailMessagesSending\MailMessagesSending\bin\MailMessagesSending.pdb
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\MailMessagesSending\MailMessagesSending\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\MailMessagesSending\MailMessagesSending\obj\Debug\MailMessagesSending.dll
+D:\Work\Lessons\ASP.NET Base v2\008_Navigation_and_validation\MailMessagesSending\MailMessagesSending\obj\Debug\MailMessagesSending.pdb

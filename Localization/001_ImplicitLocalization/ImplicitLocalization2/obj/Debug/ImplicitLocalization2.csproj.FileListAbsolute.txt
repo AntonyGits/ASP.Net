@@ -1,0 +1,28 @@
+D:\Web Development\ASP.NET Localization\ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.dll
+D:\Web Development\ASP.NET Localization\ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.pdb
+D:\Web Development\ASP.NET Localization\ImplicitLocalization\ImplicitLocalization2\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Development\ASP.NET Localization\ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.dll
+D:\Web Development\ASP.NET Localization\ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.pdb
+D:\ASP.NET Advanced\06_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.dll
+D:\ASP.NET Advanced\06_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.pdb
+D:\ASP.NET Advanced\06_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET Advanced\06_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.dll
+D:\ASP.NET Advanced\06_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.pdb
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.dll
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.pdb
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.dll
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.pdb
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.dll
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.pdb
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.dll
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.pdb
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.dll
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.pdb
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.dll
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\01_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\001_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\001_ImplicitLocalization\ImplicitLocalization2\bin\ImplicitLocalization2.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\001_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\001_ImplicitLocalization\ImplicitLocalization2\obj\Debug\ImplicitLocalization2.pdb

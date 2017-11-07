@@ -1,0 +1,2 @@
+﻿<asp:TextBox runat="server" BackColor="LightGreen" BorderColor="Green" ForeColor="Yellow" />
+<asp:Button runat="server" Font-Bold="true" ForeColor="Yellow" BackColor="Green" />

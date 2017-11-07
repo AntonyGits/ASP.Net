@@ -1,0 +1,5 @@
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\RoutingInWebForms\obj\Debug\RoutingInWebForms.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\RoutingInWebForms\bin\RoutingInWebForms.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\RoutingInWebForms\bin\RoutingInWebForms.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\RoutingInWebForms\obj\Debug\RoutingInWebForms.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\RoutingInWebForms\RoutingInWebForms\obj\Debug\RoutingInWebForms.pdb

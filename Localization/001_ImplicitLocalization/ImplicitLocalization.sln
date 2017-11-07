@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitLocalization", "ImplicitLocalization\ImplicitLocalization.csproj", "{2DA3F34F-D4B3-4BDB-8009-33280A10785C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitLocalization2", "ImplicitLocalization2\ImplicitLocalization2.csproj", "{E26C749A-AC25-40F2-B4DB-A97DD9554AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitLocalization3", "ImplicitLocalization3\ImplicitLocalization3.csproj", "{0DB0759F-105B-46C2-A073-FC4063E3658D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA3F34F-D4B3-4BDB-8009-33280A10785C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA3F34F-D4B3-4BDB-8009-33280A10785C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA3F34F-D4B3-4BDB-8009-33280A10785C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA3F34F-D4B3-4BDB-8009-33280A10785C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26C749A-AC25-40F2-B4DB-A97DD9554AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26C749A-AC25-40F2-B4DB-A97DD9554AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26C749A-AC25-40F2-B4DB-A97DD9554AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26C749A-AC25-40F2-B4DB-A97DD9554AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB0759F-105B-46C2-A073-FC4063E3658D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB0759F-105B-46C2-A073-FC4063E3658D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB0759F-105B-46C2-A073-FC4063E3658D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB0759F-105B-46C2-A073-FC4063E3658D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

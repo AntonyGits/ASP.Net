@@ -1,0 +1,10 @@
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample\bin\SqlDataBindingSample.dll
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample\bin\SqlDataBindingSample.pdb
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample\obj\Debug\SqlDataBindingSample.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample\obj\Debug\SqlDataBindingSample.dll
+c:\users\dmitriy\documents\visual studio 2012\Projects\SqlDataBindingSample\SqlDataBindingSample\obj\Debug\SqlDataBindingSample.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample\bin\SqlDataBindingSample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample\bin\SqlDataBindingSample.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample\obj\Debug\SqlDataBindingSample.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample\obj\Debug\SqlDataBindingSample.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\006_DataBinding\002_SqlDataBindingSamples\SqlDataBindingSample\obj\Debug\SqlDataBindingSample.pdb

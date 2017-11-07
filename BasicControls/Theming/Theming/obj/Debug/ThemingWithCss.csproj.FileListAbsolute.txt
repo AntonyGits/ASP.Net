@@ -1,0 +1,5 @@
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\Theming\bin\Theming.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\Theming\bin\Theming.pdb
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\Theming\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\Theming\obj\Debug\Theming.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\Theming\Theming\obj\Debug\Theming.pdb

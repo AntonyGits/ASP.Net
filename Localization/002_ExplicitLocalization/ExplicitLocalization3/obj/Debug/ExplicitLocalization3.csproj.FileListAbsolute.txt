@@ -1,0 +1,25 @@
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.dll
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.pdb
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization3\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.dll
+D:\Web Development\ASP.NET Localization\ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.pdb
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.dll
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.pdb
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.dll
+D:\Work\Lessons\ASP.NET Advanced Simple\05_ASP.NET Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.pdb
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.dll
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.pdb
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.dll
+D:\Work\Lessons\ASP.NET Base v2\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.pdb
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.dll
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.pdb
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.dll
+D:\Lessons\ASP.NET Base (2.0)\010_Localization\02_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\002_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\002_ExplicitLocalization\ExplicitLocalization3\bin\ExplicitLocalization3.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\002_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\002_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\010_Localization\002_ExplicitLocalization\ExplicitLocalization3\obj\Debug\ExplicitLocalization3.pdb

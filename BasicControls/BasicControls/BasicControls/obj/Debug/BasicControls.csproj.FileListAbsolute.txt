@@ -1,0 +1,15 @@
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\BasicControls\BasicControls\bin\BasicControls.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\BasicControls\BasicControls\bin\BasicControls.pdb
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\BasicControls\BasicControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.dll
+D:\Work\Lessons\ASP.NET Base v2\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\BasicControls\BasicControls\bin\BasicControls.dll
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\BasicControls\BasicControls\bin\BasicControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.dll
+D:\Lessons\ASP.NET Base (2.0)\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\BasicControls\BasicControls\bin\BasicControls.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\BasicControls\BasicControls\bin\BasicControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\004_BasicControls\BasicControls\BasicControls\obj\Debug\BasicControls.pdb

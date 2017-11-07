@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E386F327-94CC-469A-84DA-C7293B45E816}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ASP.NET_Page</RootNamespace>
+    <AssemblyName>ASP.NET_Page</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="001_PageEvents\001_EventHandling1.aspx" />
+    <Content Include="001_PageEvents\002_EventHandling2.aspx" />
+    <Content Include="001_PageEvents\003_EventHandling3.aspx" />
+    <Content Include="001_PageEvents\004_PageEvents.aspx" />
+    <Content Include="001_PageEvents\005_PageEvents2.aspx" />
+    <Content Include="001_PageEvents\006_IsPostBackProp.aspx" />
+    <Content Include="002_QueryString\001_TestPage.aspx" />
+    <Content Include="002_QueryString\002_RequestProp.aspx" />
+    <Content Include="003_Form\001_TestPage.htm" />
+    <Content Include="003_Form\002_RequestProp.aspx" />
+    <Content Include="004_Request\001_Request.aspx" />
+    <Content Include="005_Response\001_ResponseWrite.aspx" />
+    <Content Include="005_Response\Item.txt" />
+    <Content Include="005_Response\002_ResponseWriteFile.aspx" />
+    <Content Include="005_Response\003_ResponseRedirect.aspx" />
+    <Content Include="006_Server\001_MapPath.aspx" />
+    <Content Include="006_Server\002_HtmlEncode.aspx" />
+    <Content Include="006_Server\003_UrlEncode.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="001_PageEvents\001_EventHandling1.aspx.cs">
+      <DependentUpon>001_EventHandling1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="001_PageEvents\001_EventHandling1.aspx.designer.cs">
+      <DependentUpon>001_EventHandling1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="001_PageEvents\002_EventHandling2.aspx.cs">
+      <DependentUpon>002_EventHandling2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="001_PageEvents\002_EventHandling2.aspx.designer.cs">
+      <DependentUpon>002_EventHandling2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="001_PageEvents\003_EventHandling3.aspx.cs">
+      <DependentUpon>003_EventHandling3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="001_PageEvents\003_EventHandling3.aspx.designer.cs">
+      <DependentUpon>003_EventHandling3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="001_PageEvents\004_PageEvents.aspx.cs">
+      <DependentUpon>004_PageEvents.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="001_PageEvents\004_PageEvents.aspx.designer.cs">
+      <DependentUpon>004_PageEvents.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="001_PageEvents\005_PageEvents2.aspx.cs">
+      <DependentUpon>005_PageEvents2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="001_PageEvents\005_PageEvents2.aspx.designer.cs">
+      <DependentUpon>005_PageEvents2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="001_PageEvents\006_IsPostBackProp.aspx.cs">
+      <DependentUpon>006_IsPostBackProp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="001_PageEvents\006_IsPostBackProp.aspx.designer.cs">
+      <DependentUpon>006_IsPostBackProp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="003_Form\002_RequestProp.aspx.cs">
+      <DependentUpon>002_RequestProp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="003_Form\002_RequestProp.aspx.designer.cs">
+      <DependentUpon>002_RequestProp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="004_Request\001_Request.aspx.cs">
+      <DependentUpon>001_Request.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="004_Request\001_Request.aspx.designer.cs">
+      <DependentUpon>001_Request.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="005_Response\001_ResponseWrite.aspx.cs">
+      <DependentUpon>001_ResponseWrite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="005_Response\001_ResponseWrite.aspx.designer.cs">
+      <DependentUpon>001_ResponseWrite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="005_Response\002_ResponseWriteFile.aspx.cs">
+      <DependentUpon>002_ResponseWriteFile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="005_Response\002_ResponseWriteFile.aspx.designer.cs">
+      <DependentUpon>002_ResponseWriteFile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="005_Response\003_ResponseRedirect.aspx.cs">
+      <DependentUpon>003_ResponseRedirect.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="005_Response\003_ResponseRedirect.aspx.designer.cs">
+      <DependentUpon>003_ResponseRedirect.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="006_Server\001_MapPath.aspx.cs">
+      <DependentUpon>001_MapPath.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="006_Server\001_MapPath.aspx.designer.cs">
+      <DependentUpon>001_MapPath.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="006_Server\002_HtmlEncode.aspx.cs">
+      <DependentUpon>002_HtmlEncode.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="006_Server\002_HtmlEncode.aspx.designer.cs">
+      <DependentUpon>002_HtmlEncode.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="006_Server\003_UrlEncode.aspx.cs">
+      <DependentUpon>003_UrlEncode.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="006_Server\003_UrlEncode.aspx.designer.cs">
+      <DependentUpon>003_UrlEncode.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="002_QueryString\001_TestPage.aspx.cs">
+      <DependentUpon>001_TestPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="002_QueryString\001_TestPage.aspx.designer.cs">
+      <DependentUpon>001_TestPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="002_QueryString\002_RequestProp.aspx.cs">
+      <DependentUpon>002_RequestProp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="002_QueryString\002_RequestProp.aspx.designer.cs">
+      <DependentUpon>002_RequestProp.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>22952</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

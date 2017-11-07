@@ -1,0 +1,16 @@
+D:\Work\Lessons\ASP.NET Base v2\002_Page\ASP.NET_Page\ASP.NET_Page\bin\ASP.NET_Page.dll
+D:\Work\Lessons\ASP.NET Base v2\002_Page\ASP.NET_Page\ASP.NET_Page\bin\ASP.NET_Page.pdb
+D:\Work\Lessons\ASP.NET Base v2\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\ASP.NET Base v2\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.dll
+D:\Work\Lessons\ASP.NET Base v2\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.pdb
+D:\Lessons\ASP.NET Base (2.0)\002_Page\ASP.NET_Page\ASP.NET_Page\bin\ASP.NET_Page.dll
+D:\Lessons\ASP.NET Base (2.0)\002_Page\ASP.NET_Page\ASP.NET_Page\bin\ASP.NET_Page.pdb
+D:\Lessons\ASP.NET Base (2.0)\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.dll
+D:\Lessons\ASP.NET Base (2.0)\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\002_Page\ASP.NET_Page\ASP.NET_Page\bin\ASP.NET_Page.dll.config
+D:\Lessons\ASP.NET Base (2.0)\Materials\002_Page\ASP.NET_Page\ASP.NET_Page\bin\ASP.NET_Page.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\002_Page\ASP.NET_Page\ASP.NET_Page\bin\ASP.NET_Page.pdb
+D:\Lessons\ASP.NET Base (2.0)\Materials\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET Base (2.0)\Materials\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.dll
+D:\Lessons\ASP.NET Base (2.0)\Materials\002_Page\ASP.NET_Page\ASP.NET_Page\obj\Debug\ASP.NET_Page.pdb

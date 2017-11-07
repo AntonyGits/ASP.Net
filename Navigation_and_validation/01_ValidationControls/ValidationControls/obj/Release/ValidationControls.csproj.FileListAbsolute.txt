@@ -1,0 +1,4 @@
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\01_ValidationControls\ValidationControls\bin\ValidationControls.dll
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\01_ValidationControls\ValidationControls\bin\ValidationControls.pdb
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\01_ValidationControls\ValidationControls\obj\Release\ValidationControls.dll
+D:\Lessons\ASP.NET Base (2.0)\008_Navigation_and_validation\01_ValidationControls\ValidationControls\obj\Release\ValidationControls.pdb

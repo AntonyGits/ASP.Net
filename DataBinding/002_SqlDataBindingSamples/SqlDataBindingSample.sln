@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDataBindingSample", "SqlDataBindingSample\SqlDataBindingSample.csproj", "{9BF4BBEF-4D78-45FE-AF9B-AA6B8F3E1F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDataBindingSample2", "SqlDataBindingSample2\SqlDataBindingSample2.csproj", "{C88582FC-EA2F-4464-9861-9E7372F67CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF4BBEF-4D78-45FE-AF9B-AA6B8F3E1F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF4BBEF-4D78-45FE-AF9B-AA6B8F3E1F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF4BBEF-4D78-45FE-AF9B-AA6B8F3E1F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF4BBEF-4D78-45FE-AF9B-AA6B8F3E1F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88582FC-EA2F-4464-9861-9E7372F67CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88582FC-EA2F-4464-9861-9E7372F67CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88582FC-EA2F-4464-9861-9E7372F67CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88582FC-EA2F-4464-9861-9E7372F67CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
